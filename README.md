@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Rkyadav
--     WHATS YOUR NAME,RK YADAV
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -9,9 +8,3 @@
 -  Rkyadav1234567/Rkyadav1234567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -  You can click the Preview link to take a look at your changes.
 --->
--  I love you,some to you
-- DP FULL FROM,DISPLAY PICTURE
-- HELLO,HI
-- HOW ARE YOU, I AM FINE
-- NICE TO MET YOU,SOME TO YOU
-- TAKE CARE
